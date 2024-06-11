@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Sản phẩm 1",
+        "price": 100000,
+        "image": "image1.jpg",
+        "description": "Mô tả sản phẩm 1"
+    },
+    {
+        "id": 2,
+        "name": "Sản phẩm 2",
+        "price": 200000,
+        "image": "image2.jpg",
+        "description": "Mô tả sản phẩm 2"
+    },
+    {
+        "id": 3,
+        "name": "Sản phẩm 3",
+        "price": 200000,
+        "image": "image2.jpg",
+        "description": "Mô tả sản phẩm 3"
+    },
+    {
+        "id": 4,
+        "name": "Sản phẩm 4",
+        "price": 200000,
+        "image": "image2.jpg",
+        "description": "Mô tả sản phẩm 4"
+    },
+    {
+        "id": 5,
+        "name": "Sản phẩm 5",
+        "price": 200000,
+        "image": "image2.jpg",
+        "description": "Mô tả sản phẩm 5"
+    }
+]
