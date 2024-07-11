@@ -8,7 +8,6 @@ CREATE TABLE san_pham (
     price DECIMAL(10, 2),
     image VARCHAR(255)
 );
-SELECT * FROM satufood.san_pham;
 INSERT INTO san_pham (name, price, image)
 VALUES
     ('Phở bò', 2.49, 'https://images.pexels.com/photos/2133989/pexels-photo-2133989.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'),
