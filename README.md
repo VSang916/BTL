@@ -1,7 +1,7 @@
-//Cài đặt express.js, node.js(tải trên web, cái này cài đặt đầu tiên), và mysql2 
+//Cài đặt express.js, node.js, và mysql2 
 mở terminal ở file tải về chạy :
 npm install express mysql2
-chạy lệnh trong mysql
+//chạy lệnh trong mysql
 CREATE TABLE san_pham (
     id INT AUTO_INCREMENT PRIMARY KEY, 
     name VARCHAR(255) NOT NULL,
@@ -27,4 +27,4 @@ VALUES
     ('Chè', 2.99, 'https://static-images.vnncdn.net/files/publish/cach-lam-che-thai-thom-ngon-don-gian-9d55d5b09189453f8ac253e1a36c88c6.jpg'),
     ('Cà phê muối', 0.50, 'https://1864-icdn.caching.ovh/w_1200,h_1200,c_1/https://file.hstatic.net/1000362089/article/ca_phe_muoi3_22abb29e3a42405d811fd27d65df2771_master.png');
 //////trong file server.js sửa lại host, username ....
-cuối cùng chạy node server.js rồi vào http://localhost:5500/
+cuối cùng chạy node server.js rồi vào http://localhost:3000/
